@@ -1,4 +1,4 @@
-baseURL: https://chapter-02-05.hugoinaction.com
+baseURL: http://example.org/
 languageCode: en-us 
 title: Acme Corporation 
 theme: Universal 
@@ -55,3 +55,11 @@ params:
 
   recent_posts:
     enable: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: true
+enableEmoji: true
