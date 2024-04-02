@@ -3,24 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-01T21:28:52+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-01T21:33:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/process-4/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/process-3/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/process-2/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/process-1/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/building-squares/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/community/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/community/circle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/community/curve/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/tropical-triangles/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2024-04-01T09:28:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/credits/</loc>
+    <lastmod>2024-04-01T09:28:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/markdown/</loc>
+    <lastmod>2024-04-01T21:28:52+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/news/shaper/</loc>
+  </url><url>
+    <loc>http://localhost:1313/news/square-license/</loc>
   </url><url>
     <loc>http://localhost:1313/privacy/</loc>
+    <lastmod>2024-04-01T21:33:34+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/terms/</loc>
+    <lastmod>2024-04-01T21:28:52+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/data-driven/</loc>
+    <lastmod>2024-04-01T21:28:52+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
