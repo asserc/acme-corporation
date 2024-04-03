@@ -167,6 +167,15 @@
 <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/news/square-license/cover_hu59593a7ad40b7ed9085d27f1b8bb7685_396100_1024x512_fill_q75_box_center.jpg" medium="image" width="1024" height="512"/></item>
     
     <item>
+<title>Template Page</title>
+<link>http://localhost:1313/template/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://localhost:1313/template/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
 <title>Tropical triangles</title>
 <link>http://localhost:1313/blog/tropical-triangles/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
